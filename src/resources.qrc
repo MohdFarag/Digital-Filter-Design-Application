@@ -1,0 +1,21 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource>
+        <file alias="icon">assets/icons/icon.svg</file>
+
+        <file alias="open">assets/icons/open.svg</file>
+        <file alias="exit">assets/icons/exit.svg</file>
+
+        <file alias="zero">assets/icons/zero.svg</file>
+        <file alias="pole">assets/icons/pole.svg</file>
+        <file alias="clear-zeros">assets/icons/clear_zeros.svg</file>
+        <file alias="clear-poles">assets/icons/clear_poles.svg</file>
+        <file alias="clear-all">assets/icons/clear_all.svg</file>
+
+        <file alias="play">assets/icons/play.ico</file>
+        <file alias="pause">assets/icons/pause.ico</file>
+        <file alias="increase">assets/icons/increase.svg</file>
+        <file alias="decrease">assets/icons/decrease.svg</file>
+
+        <file alias="a-value">assets/icons/a.svg</file>
+    </qresource>
+    </RCC>
