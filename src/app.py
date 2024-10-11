@@ -19,7 +19,7 @@ from signal_processing import * # Functions of the dsp
 
 # Main Window
 class MainWindow(QMainWindow):
-    
+
     # Constructor
     def __init__(self):
         super().__init__()

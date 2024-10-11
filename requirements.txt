@@ -1,0 +1,7 @@
+numpy
+pandas
+PyQt5
+PySide2
+matplotlib
+scipy
+pyqtdarktheme
